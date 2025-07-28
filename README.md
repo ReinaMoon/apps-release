@@ -7,7 +7,9 @@
 ### PomoFriends - 포모도로 타이머 & 집중 기록
 > *집중력 향상을 위한 스마트한 동반자*
 
-[# apps-release](https://github.com/ReinaMoon/apps-release/blob/main/Release/app-pomofriends.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/ReinaMoon/apps-release/raw/main/Release/app-pomofriends.apk)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](#)
+[![Size](https://img.shields.io/badge/Size-~5MB-orange?style=for-the-badge)](#)
 
 #### ✨ 주요 기능
 - 🍅 **클래식 포모도로 타이머** - 25분 집중 + 5분 휴식
@@ -17,7 +19,6 @@
 - 🔔 **알림 시스템** - 집중/휴식 시간 알림
 - 🌙 **다크 모드** - 눈에 편안한 어두운 테마
 - 📱 **심플한 UI** - 직관적이고 깔끔한 인터페이스
-
 
 #### 🔧 요구사항
 - Android 7.0 (API 24) 이상
@@ -58,7 +59,7 @@
 - **개발 언어**: Kotlin/Java
 - **플랫폼**: Android
 - **라이선스**: MIT License
-- **개발자**: [Your Name]
+- **개발자**: ReinaMoon
 
 ---
 
@@ -117,7 +118,6 @@ SOFTWARE.
 ```
 
 ---
-
 
 **🚀 더 많은 멋진 앱들이 곧 찾아옵니다! 🚀**
 
