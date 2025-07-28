@@ -1,6 +1,4 @@
 
-# Define the markdown content
-markdown_content = """
 # 🚀 My Android Apps | 나의 안드로이드 앱
 
 Welcome! This is where I distribute my Android apps directly.  
