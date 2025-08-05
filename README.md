@@ -47,10 +47,18 @@ Google Play Store 없이 최신 앱들을 다운로드할 수 있습니다.
 
 #### ✨ Features | 주요 기능
 
-- 🔮 **AI Tarot Reading** – 하루 운세/고민 리딩  
-  **AI 타로 리딩** – 오늘의 운세 및 고민별 리딩  
-- 📜 **Saju Analysis** – Birth-date based fortune telling  
-  **사주 분석** – 생년월일 기반 기본 운세 제공  
+#### ✨ Features | 주요 기능
+
+- 🔮 **AI Tarot Reading** – View daily, financial, work, and love fortunes with button clicks  
+  **AI 타로 리딩** – 오늘의 운세, 금전운, 직장운, 애정운을 버튼 클릭으로 조회  
+- 🗨️ **User Question Input** – Ask your own questions for Tarot & Saju readings  
+  **질문 직접 입력** – 타로와 사주 모두 사용자 맞춤 질문 입력 가능  
+- 🎴 **Tarot Spread & Deck Selection** – Choose spread type, deck, and card back design  
+  **타로 스프레드 및 덱 선택** – 스프레드 방법과 덱, 뒷면 카드 디자인 선택 가능  
+- 📜 **Saju Analysis with Mansaeryeok (8 Chinese Characters)** – Traditional birth data based fortune telling  
+  **만세력 기반 사주 분석** – 한자 8글자 만세력으로 전통 사주 해석 제공  
+- 🃏 **Card-by-Card Explanation** – Tap each Tarot card to see detailed meanings  
+  **카드별 설명 제공** – 타로 카드별로 터치 시 상세 해석 안내  
 - 🔐 **Private Access Code Mode** – Personal “secret use”  
   **비밀 코드 진입 모드** – 개인용 시크릿 코드 진입 지원  
 - 🔑 **Google API Key Supported** – Full features with your API key  
