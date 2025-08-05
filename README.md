@@ -1,4 +1,3 @@
-
 # 🚀 My Android Apps | 나의 안드로이드 앱
 
 Welcome! This is where I distribute my Android apps directly.  
@@ -21,27 +20,43 @@ Google Play Store 없이 최신 앱들을 다운로드할 수 있습니다.
 
 #### ✨ Features | 주요 기능
 
-- 🍅 **Classic Pomodoro Timer** - 25 mins focus + 5 mins break  
-  **클래식 포모도로 타이머** - 25분 집중 + 5분 휴식  
-- ⏱️ **Custom Timer** - Set your own preferred duration  
-  **커스텀 타이머** - 원하는 시간으로 자유롭게 설정  
-- 📊 **Focus Statistics** - Daily/weekly/monthly charts  
-  **집중 시간 통계** - 일/주/월 단위 집중 기록  
-- 🎯 **Goal Setting** - Track your daily focus goals  
-  **목표 설정** - 하루 목표 집중 시간 설정 및 달성률 확인  
-- 🔔 **Smart Notifications** - Timely alerts during focus/break  
-  **알림 시스템** - 집중/휴식 시간 알림  
-- 🌙 **Dark Mode** - Eye-friendly theme  
-  **다크 모드** - 눈에 편안한 어두운 테마  
-- 📱 **Minimal UI** - Clean and intuitive interface  
-  **심플한 UI** - 직관적이고 깔끔한 인터페이스  
+- 🍅 **Classic Pomodoro Timer** – 25 mins focus + 5 mins break  
+  **클래식 포모도로 타이머** – 25분 집중 + 5분 휴식  
+- ⏱️ **Custom Timer** – Set your own preferred duration  
+  **커스텀 타이머** – 원하는 시간으로 자유롭게 설정  
+- 📊 **Focus Statistics** – Daily/weekly/monthly charts  
+  **집중 시간 통계** – 일/주/월 단위 집중 기록  
+- 🎯 **Goal Setting** – Track your daily focus goals  
+  **목표 설정** – 하루 목표 집중 시간 설정 및 달성률 확인  
+- 🔔 **Smart Notifications** – Timely alerts during focus/break  
+  **알림 시스템** – 집중/휴식 시간 알림  
+- 🌙 **Dark Mode** – Eye-friendly theme  
+  **다크 모드** – 눈에 편안한 어두운 테마  
+- 📱 **Minimal UI** – Clean and intuitive interface  
+  **심플한 UI** – 직관적이고 깔끔한 인터페이스
 
-#### 🔧 Requirements | 요구사항
+---
 
-- Android 7.0 (API 24) or higher  
-  Android 7.0 (API 24) 이상  
-- At least 10MB of free storage  
-  저장공간 10MB 이상
+### MyFortune (AI Tarot & Saju) | 마이포춘 – AI 타로 & 사주 운세  
+> *AI-powered fortune telling app (Korean only)*  
+> *인공지능 기반 타로·사주 운세 앱 (현재 한국어 전용 앱입니다)*
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/ReinaMoon/apps-release/raw/main/Release/app-MyFortune.apk)  
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](#)  
+[![Size](https://img.shields.io/badge/Size-~25MB-orange?style=for-the-badge)](#)
+
+#### ✨ Features | 주요 기능
+
+- 🔮 **AI Tarot Reading** – 하루 운세/고민 리딩  
+  **AI 타로 리딩** – 오늘의 운세 및 고민별 리딩  
+- 📜 **Saju Analysis** – Birth-date based fortune telling  
+  **사주 분석** – 생년월일 기반 기본 운세 제공  
+- 🔐 **Private Access Code Mode** – Personal “secret use”  
+  **비밀 코드 진입 모드** – 개인용 시크릿 코드 진입 지원  
+- 🔑 **Google API Key Supported** – Full features with your API key  
+  **Google API Key 입력 시 전체 기능 사용 가능**  
+- 🌙 **Dark Mode Support**  
+  **다크 모드 지원**
 
 ---
 
@@ -82,6 +97,10 @@ Google Play Store 없이 최신 앱들을 다운로드할 수 있습니다.
 
 ## 📋 Update History | 업데이트 히스토리
 
+### MyFortune v1.0.0 (2025-08-05)
+- 🎉 Initial release  
+  **초기 릴리즈**
+
 ### PomoFriends v1.0.0 (2025-07-28)
 - 🎉 Initial release  
   **초기 릴리즈**
@@ -115,20 +134,6 @@ If you encounter issues or have ideas to improve the app, feel free to reach out
 
 ---
 
-## 🔮 Upcoming Apps | 곧 출시될 앱들
-
-Exciting new apps are in development. Stay tuned! 🚀  
-흥미로운 앱들이 개발 중입니다. 기대해주세요!
-
-- 📝 **To-Do App** - Smart task manager  
-  할일 관리 앱 - 스마트한 Todo 매니저  
-- 💰 **Budget App** - Easy personal finance tracking  
-  가계부 앱 - 간편한 가계 관리  
-- 🏃 **Workout Tracker** - Personal fitness log  
-  운동 기록 앱 - 나만의 운동 일지  
-
----
-
 ## ⭐ Was This Project Helpful? | 이 프로젝트가 도움이 되셨나요?
 
 - ⭐ Give it a **Star** to support the project  
@@ -139,7 +144,6 @@ Exciting new apps are in development. Stay tuned! 🚀
   **Share**해서 더 많은 사람들과 공유해주세요  
 
 ---
-
 
 **🚀 More awesome apps are on the way! Stay tuned!**  
 **🚀 더 멋진 앱들이 곧 찾아옵니다! 기대해주세요!**
